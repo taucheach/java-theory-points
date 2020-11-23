@@ -246,9 +246,3 @@ Java NIO的使用:
 	        socketChannel.write(byteBuffer);
 	    }
 	}
-
-
-	
-
-	
-	
